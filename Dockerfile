@@ -1,4 +1,4 @@
-######### Dockerfile He+ tensorflow-pytorch 1.0 ###########
+########## Dockerfile He+ tensorflow-pytorch 1.0 ############
 
 FROM jupyter/tensorflow-notebook:7f1482f5a136
 
